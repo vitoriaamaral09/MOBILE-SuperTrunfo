@@ -1,15 +1,15 @@
-# 🏎️ Super Trunfo F1 – React Native / Expo
+#  Super Trunfo F1 – React Native / Expo
 
 Aplicativo simples desenvolvido em **React Native com Expo** que exibe **cartas de pilotos de Fórmula 1**, no estilo *Super Trunfo*.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Compreender o uso de **componentes básicos**, **estilização com StyleSheet** e **dados estáticos em JavaScript**.
 
 ---
 
-## 📋 Requisitos implementados
+##  Requisitos implementados
 - Exibir **nome**, **descrição**, **equipe**, **país**, **número de estrelas ⭐**, e **imagem** do piloto.
 - Utiliza componentes básicos: `View`, `Text`, `Image`, `ScrollView`.
 - Dados estáticos armazenados em `pilots.js`.
@@ -17,7 +17,7 @@ Compreender o uso de **componentes básicos**, **estilização com StyleSheet** 
 
 ---
 
-## 🧱 Estrutura do projeto
+##  Estrutura do projeto
 ```
 F1CardsApp/
 ├── App.js
@@ -29,7 +29,7 @@ F1CardsApp/
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 1️⃣ Instale o Expo CLI (caso ainda não tenha):
 ```bash
 npm install -g expo-cli
@@ -45,7 +45,7 @@ npm start
 
 ---
 
-## 🧩 Exemplo de uso
+##  Exemplo de uso
 - O app percorre a lista `pilots` e exibe cada piloto com sua imagem e dados.
 - Você pode rolar a tela para ver todos os pilotos.
 
